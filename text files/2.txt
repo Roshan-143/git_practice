@@ -1,1 +1,2 @@
 second file containing text.
+checking the commands.
